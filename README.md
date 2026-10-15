@@ -1,27 +1,77 @@
-# 💫 About Me:
-I am a motivated and eager to learn 20 year old Computer Science student at the Rotterdam University of Applied Sciences, with almost 3 years of experience in higher education. Currently a second year student and actively looking for a challenging position or internship in which I can further develop my programming skills and discover new technologies. Strong in problem solving and analytical thinking, reliable and a fast learner.
+<div align="center">
 
+<img src="LinedIn-banner.jpg" alt="Chris van der Elst - Informatics student, software and data" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chris van der Elst) 
+<br/><br/>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jacksn1219&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jacksn1219&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacksn1219&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://linkedin.com/in/chris-van-der-elst-181207327"><img src="https://img.shields.io/badge/LinkedIn-1b2b30?style=flat-square&logo=linkedin&logoColor=7fb7c4" alt="LinkedIn"/></a>
+<a href="https://csvde.mypixieset.com/"><img src="https://img.shields.io/badge/Photography-1b2b30?style=flat-square" alt="Photography portfolio"/></a>
+<a href="mailto:1029000@hr.nl"><img src="https://img.shields.io/badge/Email-1b2b30?style=flat-square&logo=gmail&logoColor=7fb7c4" alt="Email"/></a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jacksn1219&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jacksn1219&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true)
+## About
 
----
-[![](https://visitcount.itsvg.in/api?id=Jacksn1219&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="LinkedIn-Profile-picture.jpg" alt="Chris van der Elst" width="150" align="right"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a fourth-year Computer Science student (HBO Informatica) at Hogeschool Rotterdam. I like turning messy problems into something structured, whether that is an application, a data pipeline or a dashboard people actually use.
+
+I work on both sides: building software in C#/.NET, Python, JavaScript and Flutter, and making data understandable with Power BI. I document what I build, and I want to understand *why* something works, not just that it does.
+
+I'm looking for a **graduation internship** (about 6 months, after my Data Science minor) where I can contribute to real software and data work.
+
+## Experience
+
+> **◆ HBO Informatica · Hogeschool Rotterdam**  
+> *Where it started*  
+> Propedeuse completed after havo, followed by project-based education: building software in teams, tracking work in Jira and getting hands-on with Azure.  
+> <img src="https://img.shields.io/badge/C%23-1b2b30?style=flat-square&logo=csharp&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/.NET-1b2b30?style=flat-square&logo=dotnet&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Python-1b2b30?style=flat-square&logo=python&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/JavaScript-1b2b30?style=flat-square&logo=javascript&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Jira-1b2b30?style=flat-square&logo=jira&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Azure-1b2b30?style=flat-square&logo=microsoftazure&logoColor=7fb7c4"/>
+>
+> **◆ Vulcanex · Geological monitoring app**  
+> *School project*  
+> A cross-platform Flutter/Dart app with a CSV-based backend, structured with Clean Architecture and BLoC. Besides the code I delivered a heuristic evaluation (19 findings), user test plans and results, UML class and PlantUML component diagrams, and a future-development advice document. I learned to keep an app maintainable and to back design decisions with evidence instead of opinion.  
+> <img src="https://img.shields.io/badge/Flutter-1b2b30?style=flat-square&logo=flutter&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Dart-1b2b30?style=flat-square&logo=dart&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Clean%20Architecture-1b2b30?style=flat-square"/> <img src="https://img.shields.io/badge/BLoC-1b2b30?style=flat-square"/> <img src="https://img.shields.io/badge/UML%20%2F%20PlantUML-1b2b30?style=flat-square"/> <img src="https://img.shields.io/badge/Usability%20testing-1b2b30?style=flat-square"/>
+>
+> **◆ Internship · Municipality**  
+> *Documentation & Power BI*  
+> Not a development role, and that was the value of it: I documented systems and processes so others could pick them up, and built Power BI dashboards for colleagues who rely on the numbers. It taught me to start from what the reader needs to decide, not from what the data happens to contain.  
+> <img src="https://img.shields.io/badge/Power%20BI-1b2b30?style=flat-square&logo=powerbi&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Dashboard%20design-1b2b30?style=flat-square"/> <img src="https://img.shields.io/badge/Technical%20documentation-1b2b30?style=flat-square"/>
+>
+> **◆ Homelab · HP Z210**  
+> *Self-directed learning*  
+> A home server on Ubuntu Server and Docker that doubles as my learning platform: Traefik as reverse proxy, Pi-hole for DNS filtering, Uptime Kuma for monitoring, Gitea for git and MinIO for object storage. I also built a Power BI ETL pipeline on top of it: raw bank exports cleaned with pandas in Jupyter, stored in MinIO and visualised in Power BI. It taught me networking basics, containers and what it takes to keep services running.  
+> <img src="https://img.shields.io/badge/Docker-1b2b30?style=flat-square&logo=docker&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Ubuntu%20Server-1b2b30?style=flat-square&logo=ubuntu&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Traefik-1b2b30?style=flat-square&logo=traefikproxy&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Pi--hole-1b2b30?style=flat-square&logo=pihole&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Gitea-1b2b30?style=flat-square&logo=gitea&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/MinIO-1b2b30?style=flat-square&logo=minio&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/pandas-1b2b30?style=flat-square&logo=pandas&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Jupyter-1b2b30?style=flat-square&logo=jupyter&logoColor=7fb7c4"/>
+>
+> **◆ Data Science minor** · *Now*  
+> Working through regression and modelling, adding a statistical foundation to the software and dashboard work I've done so far.  
+> <img src="https://img.shields.io/badge/Regression-1b2b30?style=flat-square"/> <img src="https://img.shields.io/badge/Statistical%20modelling-1b2b30?style=flat-square"/>
+>
+> **◇ Graduation internship** · *Next, about 6 months*  
+> Looking for a team where I can contribute to real software and data work while finishing my degree.
+
+## Toolbox
+
+<img src="https://img.shields.io/badge/C%23-1b2b30?style=flat-square&logo=csharp&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/.NET-1b2b30?style=flat-square&logo=dotnet&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Python-1b2b30?style=flat-square&logo=python&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/JavaScript-1b2b30?style=flat-square&logo=javascript&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Dart-1b2b30?style=flat-square&logo=dart&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Flutter-1b2b30?style=flat-square&logo=flutter&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Next.js-1b2b30?style=flat-square&logo=nextdotjs&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/SQLite-1b2b30?style=flat-square&logo=sqlite&logoColor=7fb7c4"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-1b2b30?style=flat-square&logo=powerbi&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/pandas-1b2b30?style=flat-square&logo=pandas&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Azure-1b2b30?style=flat-square&logo=microsoftazure&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Docker-1b2b30?style=flat-square&logo=docker&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Linux-1b2b30?style=flat-square&logo=linux&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/GitHub%20Actions-1b2b30?style=flat-square&logo=githubactions&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Jira-1b2b30?style=flat-square&logo=jira&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Netlify-1b2b30?style=flat-square&logo=netlify&logoColor=7fb7c4"/>
+
+## Beyond code
+
+**Photography:** I shoot automotive, nature and portrait work on a Canon EOS 6D Mark II and publish it under the name CSVDE. [See the portfolio →](https://csvde.mypixieset.com/)
+
+## Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jacksn1219&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=1b2b30&title_color=7fb7c4&text_color=c9d6d9&icon_color=7fb7c4&border_color=2b4a52"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacksn1219&layout=compact&hide_border=false&bg_color=1b2b30&title_color=7fb7c4&text_color=c9d6d9&border_color=2b4a52"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Always happy to talk about software, data or a good coffee.</sub>
+</div>
