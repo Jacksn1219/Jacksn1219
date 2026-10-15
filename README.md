@@ -6,7 +6,7 @@
 
 <a href="https://linkedin.com/in/chris-van-der-elst-181207327"><img src="https://img.shields.io/badge/LinkedIn-1b2b30?style=flat-square&logo=linkedin&logoColor=7fb7c4" alt="LinkedIn"/></a>
 <a href="https://csvde.mypixieset.com/"><img src="https://img.shields.io/badge/Photography-1b2b30?style=flat-square" alt="Photography portfolio"/></a>
-<a href="mailto:1029000@hr.nl"><img src="https://img.shields.io/badge/Email-1b2b30?style=flat-square&logo=gmail&logoColor=7fb7c4" alt="Email"/></a>
+<a href="mailto:YOUR@EMAIL.COM"><img src="https://img.shields.io/badge/Email-1b2b30?style=flat-square&logo=gmail&logoColor=7fb7c4" alt="Email"/></a>
 
 </div>
 
@@ -16,28 +16,33 @@
 
 <img src="LinkedIn-Profile-picture.jpg" alt="Chris van der Elst" width="150" align="right"/>
 
-I'm a fourth-year Computer Science student (HBO Informatica) at Hogeschool Rotterdam. I like turning messy problems into something structured, whether that is an application, a data pipeline or a dashboard people actually use.
+I'm a fourth-year Informatics student (HBO) at Hogeschool Rotterdam, looking for a **graduation internship (from February 2027)** where I can help build real software and data solutions, preferably in a scrum team.
 
-I work on both sides: building software in C#/.NET, Python, JavaScript and Flutter, and making data understandable with Power BI. I document what I build, and I want to understand *why* something works, not just that it does.
+Most recently I interned at the data team of Gemeente Hoeksche Waard (Sep 2025 – Feb 2026) as a data analyst and process improver, working on Power BI reporting, an Azure Synapse ETL pipeline and Azure DevOps workflows. Alongside my studies I'm a peer coach in the CMI Informatica programme and work in a warehouse at PePe Parts B.V., where teamwork and reliability matter.
 
-I'm looking for a **graduation internship** (about 6 months, after my Data Science minor) where I can contribute to real software and data work.
+I'm now doing the Data Science minor and building a Docker homelab in my spare time. I document what I build, and I want to understand *why* something works, not just that it does.
 
-## Experience
+## Timeline
 
 > **◆ HBO Informatica · Hogeschool Rotterdam**  
 > *Where it started*  
 > Propedeuse completed after havo, followed by project-based education: building software in teams, tracking work in Jira and getting hands-on with Azure.  
 > <img src="https://img.shields.io/badge/C%23-1b2b30?style=flat-square&logo=csharp&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/.NET-1b2b30?style=flat-square&logo=dotnet&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Python-1b2b30?style=flat-square&logo=python&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/JavaScript-1b2b30?style=flat-square&logo=javascript&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Jira-1b2b30?style=flat-square&logo=jira&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Azure-1b2b30?style=flat-square&logo=microsoftazure&logoColor=7fb7c4"/>
 >
+> **◆ Peer coach · CMI Informatica**  
+> *Alongside my studies*  
+> I support fellow students by explaining concepts and encouraging them to learn independently, which means listening first and then finding the explanation that fits the person.  
+> <img src="https://img.shields.io/badge/Peer%20coaching-1b2b30?style=flat-square"/> <img src="https://img.shields.io/badge/Active%20listening-1b2b30?style=flat-square"/> <img src="https://img.shields.io/badge/Explaining%20technical%20concepts-1b2b30?style=flat-square"/>
+>
 > **◆ Vulcanex · Geological monitoring app**  
 > *School project*  
 > A cross-platform Flutter/Dart app with a CSV-based backend, structured with Clean Architecture and BLoC. Besides the code I delivered a heuristic evaluation (19 findings), user test plans and results, UML class and PlantUML component diagrams, and a future-development advice document. I learned to keep an app maintainable and to back design decisions with evidence instead of opinion.  
 > <img src="https://img.shields.io/badge/Flutter-1b2b30?style=flat-square&logo=flutter&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Dart-1b2b30?style=flat-square&logo=dart&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Clean%20Architecture-1b2b30?style=flat-square"/> <img src="https://img.shields.io/badge/BLoC-1b2b30?style=flat-square"/> <img src="https://img.shields.io/badge/UML%20%2F%20PlantUML-1b2b30?style=flat-square"/> <img src="https://img.shields.io/badge/Usability%20testing-1b2b30?style=flat-square"/>
 >
-> **◆ Internship · Municipality**  
-> *Documentation & Power BI*  
-> Not a development role, and that was the value of it: I documented systems and processes so others could pick them up, and built Power BI dashboards for colleagues who rely on the numbers. It taught me to start from what the reader needs to decide, not from what the data happens to contain.  
-> <img src="https://img.shields.io/badge/Power%20BI-1b2b30?style=flat-square&logo=powerbi&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Dashboard%20design-1b2b30?style=flat-square"/> <img src="https://img.shields.io/badge/Technical%20documentation-1b2b30?style=flat-square"/>
+> **◆ Internship · Gemeente Hoeksche Waard**  
+> *Data team · Sep 2025 – Feb 2026*  
+> I worked as data analyst and process improver: Power BI reports with KPIs, an ETL pipeline on Azure Synapse (medallion architecture), Azure DevOps workflows with Kanban/Scrum, and metadata analysis. I also wrote advisory reports on process optimisation, including a proof of concept for a single-source-of-truth wiki, which improved team transparency and onboarding.  
+> <img src="https://img.shields.io/badge/Power%20BI-1b2b30?style=flat-square&logo=powerbi&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Azure%20Synapse-1b2b30?style=flat-square&logo=microsoftazure&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/Azure%20DevOps-1b2b30?style=flat-square&logo=azuredevops&logoColor=7fb7c4"/> <img src="https://img.shields.io/badge/ETL%20pipelines-1b2b30?style=flat-square"/> <img src="https://img.shields.io/badge/Medallion%20architecture-1b2b30?style=flat-square"/> <img src="https://img.shields.io/badge/Scrum%20%2F%20Kanban-1b2b30?style=flat-square"/> <img src="https://img.shields.io/badge/Metadata%20analysis-1b2b30?style=flat-square"/>
 >
 > **◆ Homelab · HP Z210**  
 > *Self-directed learning*  
@@ -73,5 +78,5 @@ I'm looking for a **graduation internship** (about 6 months, after my Data Scien
 <br/>
 
 <div align="center">
-<sub>Always happy to talk about software, data or a good coffee.</sub>
+<sub>Always happy to talk about software or data over a good coffee.</sub>
 </div>
