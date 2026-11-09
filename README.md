@@ -66,15 +66,6 @@ I'm now doing the Data Science minor and building a Docker homelab in my spare t
 
 **Photography:** I shoot automotive, nature and portrait work on a Canon EOS 6D Mark II and publish it under the name CSVDE. [See the portfolio →](https://csvde.mypixieset.com/)
 
-## Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jacksn1219&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=1b2b30&title_color=7fb7c4&text_color=c9d6d9&icon_color=7fb7c4&border_color=2b4a52"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacksn1219&layout=compact&hide_border=false&bg_color=1b2b30&title_color=7fb7c4&text_color=c9d6d9&border_color=2b4a52"/>
-
-</div>
-
 <br/>
 
 <div align="center">
